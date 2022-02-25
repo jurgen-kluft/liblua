@@ -1,9 +1,6 @@
-# json parser
+# LUA
 
-A simple json token parser based on jsmn.
+LUA as an xcore library
 
-- Can read UTF-8
-
-## Dependencies
-
+- lua 5.4.4
 - xbase
