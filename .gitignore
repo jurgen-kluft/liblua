@@ -1,0 +1,18 @@
+#ignore all files
+*
+!*/
+
+target/
+
+#except the following files
+!.gitignore
+!.clang-format
+!*.cpp
+!*.hpp
+!*.c
+!*.h
+!*.inl
+!*.go
+!*.md
+
+#except the following folders
